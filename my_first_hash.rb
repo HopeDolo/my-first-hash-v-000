@@ -1,5 +1,5 @@
 def my_hash
-  the_hash = {
+  brown_hash = {
     "name" => "Darius",
     "age" => 29,
     "shoe size" => 9.5
